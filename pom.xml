@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.design.patterns</groupId>
-    <artifactId>design-patterns</artifactId>
+    <artifactId>pdf-addAttachments</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>design-patterns</name>
     <description>Demo project for Spring Boot</description>
